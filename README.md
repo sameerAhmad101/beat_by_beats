@@ -5,8 +5,8 @@ This web-application generates "random" songs/music list according to a word you
 This Repository is private-like for training purposes, we are beginners programmers students.
 Any suggestions , modifing , contributions are welcomed,Enjoy!
 ## Founders:
-###we are IT students from Tartus university , Syria:
--Hasan Ali
--Samir Ahmed
--Almkdad Ali
+###We are IT students from Tartus university , Syria:
+* Hasan Ali
+* Samir Ahmed
+* Almkdad Ali
 
